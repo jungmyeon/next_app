@@ -1,0 +1,11 @@
+/* layout.js 에 연결된 스타일시트 */
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding:0;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
